@@ -1,0 +1,15 @@
+{
+  "spec": "v1",
+  "name": "NothingToSeeHere",
+  "description": "why are you here",
+  "packages": [
+    {
+      "name": "dockhider",
+      "bundleid": "ca.bomberfish.dockhider",
+      "author": "bomberfish",
+      "version": "1.0",
+      "icon": "icons/dockhider.png",
+      "path": "packages/dockhider.picasso"
+    }
+  ]
+}
