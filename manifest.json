@@ -1,7 +1,8 @@
 {
-  "spec": "v1",
+  "spec": "1.0",
   "name": "NothingToSeeHere",
   "description": "why are you here",
+  "icon": "repo.png", 
   "packages": [
     {
       "name": "dockhider",
