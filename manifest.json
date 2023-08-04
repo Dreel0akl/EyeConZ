@@ -8,6 +8,7 @@
       "name": "dockhider",
       "bundleid": "ca.bomberfish.dockhider",
       "author": "bomberfish",
+      "description": "hides dock, what did you think lmao",
       "version": "1.0",
       "icon": "icons/dockhider.png",
       "path": "packages/dockhider.picasso"
