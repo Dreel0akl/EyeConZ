@@ -1,17 +1,17 @@
 {
   "spec": "1.0",
-  "name": "NothingToSeeHere",
-  "description": "why are you here",
+  "name": "EyeConZ",
+  "description": "Am0ngu5",
   "icon": "repo.png", 
   "packages": [
     {
-      "name": "dockhider",
-      "bundleid": "ca.bomberfish.dockhider",
-      "author": "bomberfish",
-      "description": "hides dock, what did you think lmao",
+      "name": "Am0ngu5",
+      "bundleid": "ca.sussy.amongus",
+      "author": "pooper",
+      "description": "new jb",
       "version": "1.0",
       "icon": "icons/dockhider.png",
-      "path": "packages/ca.bomberfish.dockhider.picasso"
+      "path": "packages/ca.sussy.amongus.picasso"
     }
   ]
 }
