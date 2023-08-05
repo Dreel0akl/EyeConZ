@@ -11,7 +11,7 @@
       "description": "hides dock, what did you think lmao",
       "version": "1.0",
       "icon": "icons/dockhider.png",
-      "path": "packages/dockhider.picasso"
+      "path": "packages/ca.bomberfish.dockhider.picasso"
     }
   ]
 }
