@@ -1,0 +1,16 @@
+{
+  "spec": "1.0",
+  "bundleid": "ca.bomberfish.dockhider",
+  "operations": [
+    {
+      "type": "replacing",
+      "originPath": "/System/Library/PrivateFrameworks/CoreMaterial.framework/dockDark.materialrecipe",
+      "replacementFileName": "transparentDock.materialrecipe"
+    },
+    {
+      "type": "replacing",
+      "originPath": "/System/Library/PrivateFrameworks/CoreMaterial.framework/dockLight.materialrecipe",
+      "replacementFileName": "transparentDock.materialrecipe"
+    }
+  ]
+}
